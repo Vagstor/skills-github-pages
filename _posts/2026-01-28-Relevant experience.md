@@ -51,6 +51,9 @@ date: 2026-01-28
 
 ---
 ### Original (EN)
+
+### 4.3 Electric wiring:
+
 1. The wires shall be connected according to the wire marker on the machine.  
 2. Recommended standard of power supply path  
    | Power line diameter mm² (copper wire) | 0.75 | 1.0 | 1.5 | 2.5 | 4 | 6 | 10 | 16 | 25 | 35 | 50 |
