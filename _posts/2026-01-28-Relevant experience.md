@@ -147,11 +147,11 @@ A “Privatstiftung” (private foundation) under Austrian law is a legal entity
 
 <summary>Linguistic assets formed over the years</summary>
 
-![Пример фрагмента TM](/TM1.png)
-
-![Пример фрагмента TM](/TM2.png)
-
-![Пример фрагмента TM](/glossary1.png)
+<img width="855" height="782" alt="glossary1" src="https://github.com/user-attachments/assets/b1f2502c-f3c5-4427-bd12-fc4fc8c47760" />
+<p></p>
+<img width="853" height="843" alt="TM1" src="https://github.com/user-attachments/assets/c601741b-0b02-43fa-b790-95d496566ca8" />
+<p></p>
+<img width="871" height="865" alt="TM2" src="https://github.com/user-attachments/assets/a835ca06-9fe6-4c20-9265-363fab5282a0" />
 
 </details>
 
